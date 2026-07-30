@@ -27,8 +27,8 @@ Welcome to my GitHub space! I am an IT Engineer and the founder of Soft-IT, my o
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soft-by-nour&show_icons=true&theme=default&bg_color=ffffff&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soft-by-nour&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=soft-by-nour&show_icons=true&theme=default&bg_color=ffffff&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soft-by-nour&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
 
