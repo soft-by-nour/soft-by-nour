@@ -17,11 +17,6 @@ Welcome to my GitHub space! I am an IT Engineer and the founder of Soft-IT, my o
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Tools & Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
 ---
 
 ### 🚀 Currently working on
@@ -37,8 +32,3 @@ Welcome to my GitHub space! I am an IT Engineer and the founder of Soft-IT, my o
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soft-by-nour&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
----
-
-### 📫 How to reach me
-Feel free to connect for a consultation or a quote:
-[<img src="https://img.shields.io/badge/Email-nourabouaissa.93@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white">](mailto:nourabouaissa.93@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-in/noura-bouaissa-blue?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/noura-bouaissa) [<img src="https://img.shields.io/badge/Website-Visit%20Soft%20IT-red?style=for-the-badge&logo=ghost&logoColor=white">](https://www.soft-it.fr)
