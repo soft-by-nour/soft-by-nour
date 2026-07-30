@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Noura | Founder of Soft-IT
 
-<!--
-**soft-by-nour/soft-by-nour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Entrepreneur & Software Engineer** 
 
-Here are some ideas to get you started:
+Welcome to my GitHub space! I am an IT Engineer and the founder of Soft-IT, my own independent IT services business. I specialize in building robust web applications and custom software solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Backend:** Java, Spring Boot
+* **Frontend:** Angular
+
+### 🚀 What I'm currently working on
+* 💻 Developing robust applications for my clients through Soft-IT.
+* 📚 Deepening my technical expertise and exploring DevOps practices.
+
+### 📫 How to reach me
+* **Email:** nourabouaissa.93@gmail.com
+* **LinkedIn:** in/noura-bouaissa
